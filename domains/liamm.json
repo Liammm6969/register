@@ -4,6 +4,6 @@
     "email": "geriemarie18@gmail.com"
   },
   "records": {
-    "CNAME": "52397c1b9da8f7c2.vercel-dns-017.com."
+    "A": ["216.198.79.1"]
   }
 }
